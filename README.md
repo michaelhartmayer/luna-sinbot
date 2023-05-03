@@ -1,1 +1,1 @@
-# luna-sinbot
+# Luna Sinbot
